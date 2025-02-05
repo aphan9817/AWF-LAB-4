@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "undefined/subscriptions/eb3e7bf9-ba8d-416e-9872-54cd5d572a2b/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/Anthony-Lab-4",
+  "appService.deploySubpath": "."
+}
